@@ -73,45 +73,8 @@ This work was supported by:
 * Chenguang Program of Shanghai Education Development Foundation and Shanghai Municipal Education Commission (22CGA36)
 
 ## References
-@Inbook{1,
-author="Awad, Mariette
-and Khanna, Rahul",
-title="Support Vector Regression",
-bookTitle="Efficient Learning Machines: Theories, Concepts, and Applications for Engineers and System Designers",
-year="2015",
-publisher="Apress",
-address="Berkeley, CA",
-pages="67--80",
-isbn="978-1-4302-5990-9"
-}
-@inproceedings{2,
-author = {Wang, Hao and He, Hao and Katabi, Dina},
-title = {Continuously indexed domain adaptation},
-year = {2020},
-booktitle = {Proc. Int. Conf. Mach. Learn.},
-articleno = {918},
-numpages = {10}
-}
-@ARTICLE{3,
-  author={Zhou, Qianyu and Gu, Qiqi and Pang, Jiangmiao and Lu, Xuequan and Ma, Lizhuang},
-  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
-  title={Self-adversarial disentangling for specific domain adaptation},
-  year={2023},
-  volume={45},
-  number={7},
-  pages={8954-8968}}
-
-@inproceedings{4,
-title={Domain-indexing variational bayes: interpretable domain index for domain adaptation},
-author={Zihao Xu and Guang-Yuan Hao and Hao He and Hao Wang},
-booktitle={Proc. Int. Conf. Learn. Represent.},
-year={2023}
-}
-@ARTICLE{5,
-  author={Chai, Zheng and Zhao, Chunhui and Huang, Biao},
-  journal={IEEE Trans. Cybern.},
-  title={Variational progressive-transfer network for soft sensing of multirate industrial processes},
-  year={2022},
-  volume={52},
-  number={12},
-  pages={12882-12892}}
+[1] M. Awad and R. Khanna, Support Vector Regression. Berkeley, CA: Apress, 2015, pp. 67–80.
+[2] H. Wang, H. He, and D. Katabi, “Continuously indexed domain adaptation,” in Proc. Int. Conf. Mach. Learn., 2020.
+[3] Q. Zhou, Q. Gu, J. Pang, X. Lu, and L. Ma, “Self-adversarial disentangling for specific domain adaptation,” IEEE Trans. Pattern Anal. Mach. Intell., vol. 45, no. 7, pp. 8954–8968, 2023.
+[4] Z. Xu, G.-Y. Hao, H. He, and H. Wang, “Domain-indexing variational bayes: interpretable domain index for domain adaptation,” in Proc. Int. Conf. Learn. Represent., 2023.
+[5] Z. Chai, C. Zhao, and B. Huang, “Variational progressive-transfer networkforsoftsensingofmultirateindustrialprocesses,” IEEETrans. Cybern.,vol.52,no.12,pp.12882–12892,2022.
