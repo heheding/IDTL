@@ -16,6 +16,15 @@ Multirate industrial processes generate data at different sampling rates, which 
 
 ![Domain-specific Representations](https://github.com/user-attachments/files/20201853/spf-eps-converted-to.pdf)
 
+## 📊 Performance Comparison
+
+As shown in the table, IDTL outperforms the other methods in both MAE and RMSE:
+
+| Method              | SVR [1] | CIDA [2] | SAD [3] | VDI [4] | VPTN [5] | **IDTL**   |
+|---------------------|---------------:|---------------:|--------------:|-------------:|---------------:|-----------:|
+| **MAE**             | 0.0963         | 0.0851         | 0.0936        | 0.0823       | 0.0819         | **0.0638** |
+| **RMSE**            | 0.1412         | 0.1048         | 0.1149        | 0.0995       | 0.1207         | **0.0805** |
+
 
 
 
@@ -63,3 +72,46 @@ This work was supported by:
 * Shanghai Sailing Program, China (Grant No. 22YF1401500)
 * Chenguang Program of Shanghai Education Development Foundation and Shanghai Municipal Education Commission (22CGA36)
 
+## References
+@Inbook{1,
+author="Awad, Mariette
+and Khanna, Rahul",
+title="Support Vector Regression",
+bookTitle="Efficient Learning Machines: Theories, Concepts, and Applications for Engineers and System Designers",
+year="2015",
+publisher="Apress",
+address="Berkeley, CA",
+pages="67--80",
+isbn="978-1-4302-5990-9"
+}
+@inproceedings{2,
+author = {Wang, Hao and He, Hao and Katabi, Dina},
+title = {Continuously indexed domain adaptation},
+year = {2020},
+booktitle = {Proc. Int. Conf. Mach. Learn.},
+articleno = {918},
+numpages = {10}
+}
+@ARTICLE{3,
+  author={Zhou, Qianyu and Gu, Qiqi and Pang, Jiangmiao and Lu, Xuequan and Ma, Lizhuang},
+  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+  title={Self-adversarial disentangling for specific domain adaptation},
+  year={2023},
+  volume={45},
+  number={7},
+  pages={8954-8968}}
+
+@inproceedings{4,
+title={Domain-indexing variational bayes: interpretable domain index for domain adaptation},
+author={Zihao Xu and Guang-Yuan Hao and Hao He and Hao Wang},
+booktitle={Proc. Int. Conf. Learn. Represent.},
+year={2023}
+}
+@ARTICLE{5,
+  author={Chai, Zheng and Zhao, Chunhui and Huang, Biao},
+  journal={IEEE Trans. Cybern.},
+  title={Variational progressive-transfer network for soft sensing of multirate industrial processes},
+  year={2022},
+  volume={52},
+  number={12},
+  pages={12882-12892}}
