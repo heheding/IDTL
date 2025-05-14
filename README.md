@@ -6,6 +6,19 @@ This repository contains the official implementation of **Variational Informatio
 
 Multirate industrial processes generate data at different sampling rates, which poses challenges for accurate soft sensing and quality prediction. We introduce a novel set-based perspective and an **Interpretable Disentangled Transfer Learning (IDTL)** methodology to effectively handle multirate data without information loss.
 
+### 📷 Illustrations
+
+<!-- 第一张：整体流程图 -->
+![Process Overview](https://github.com/user-attachments/files/20201576/framework.pdf)
+
+<!-- 第二张：模型架构图 -->[Uploading framework.pdf…]()
+
+![Model Architecture](docs/images/architecture.png)
+
+<!-- 第三张：实验装置示意图 -->
+![Experimental Setup](docs/images/setup.png)
+
+
 ### 🚀 Highlights
 
 1. **Novel Perspective**: Treat multirate processes as sets, preserving all information and avoiding the downsides of up/down-sampling and delayed features.
@@ -50,6 +63,3 @@ This work was supported by:
 * Shanghai Sailing Program, China (Grant No. 22YF1401500)
 * Chenguang Program of Shanghai Education Development Foundation and Shanghai Municipal Education Commission (22CGA36)
 
----
-
-Feel free to open issues or submit pull requests for bug fixes and improvements. We welcome contributions to extend IDTL to other multirate process settings!
