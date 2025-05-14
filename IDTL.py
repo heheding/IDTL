@@ -25,14 +25,9 @@ import datetime
 
 seed_all(3407)
 decon = nn.Linear(70, 1)
- # 定义一个保存函数，添加到 CSV 文件中
 def save_to_csv(data, filepath):
-    """
-    将损失数据保存到 CSV 文件中，追加模式。
-    每次保存一行数据。
-    """
     with open(filepath, 'a') as f:
-        np.savetxt(f, [data], delimiter=',')  # 使用 [] 包裹 data，确保每次写入的是一行
+        np.savetxt(f, [data], delimiter=',')  
 def preprocess_data(data, label):
     data = data.cuda().to(torch.float32)
     label = label.cuda().to(torch.float32)
@@ -137,9 +132,9 @@ for epoch in range(n_epoch):
         set_requires_grad(netD, requires_grad=True)
         optimizer_U.zero_grad()
         optimizer_D.zero_grad()
-        u, u_mu, u_log_var = UNet(x_seq, t_seq)   # u, u_mu, u_log_var 6*128*2
+        u, u_mu, u_log_var = UNet(x_seq, t_seq)  
         u_inv, u_inv_var, up_inv, up_inv_var = Uinv(u)
-        q_z, q_z_mu, q_z_log_var, p_z, p_z_mu, p_z_log_var = Q_ZNet(x_seq, u_inv)    # 6*128*204, 6*128*2, 6*128*1
+        q_z, q_z_mu, q_z_log_var, p_z, p_z_mu, p_z_log_var = Q_ZNet(x_seq, u_inv)  
         d = netD(q_z)
         loss_D = F.l1_loss(flat(d), flat(t_seq))
         loss_D.backward()
@@ -188,8 +183,6 @@ for epoch in range(n_epoch):
                 torch.exp(up_inv_var))
         loss_KLuinv = -torch.mean(loss_uinv.sum(1), dim=0)
 
-        # - E_q[log q(u|x)] 熵
-        # u is multi-dimensional
         loss_q_u_x = torch.mean((0.5 * flat(u_log_var)).sum(1), dim=0)
 
         # - E_q[log q(z|x,u)]
