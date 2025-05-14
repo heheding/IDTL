@@ -10,9 +10,12 @@ Multirate industrial processes generate data at different sampling rates, which 
 
 ![Model Architecture](https://github.com/user-attachments/files/20201576/framework.pdf)
 
-![Prediction scatter][scatter-eps-converted-to.pdf](https://github.com/user-attachments/files/20201773/scatter-eps-converted-to.pdf)
+![Prediction Scatter](https://github.com/user-attachments/files/20201773/scatter-eps-converted-to.pdf)
 
-![ domain-invariant representations][inv-eps-converted-to.pdf](https://github.com/user-attachments/files/20201781/inv-eps-converted-to.pdf)
+![Domain-invariant Representations](https://github.com/user-attachments/files/20201781/inv-eps-converted-to.pdf)
+
+![Domain-specific Representations](https://github.com/user-attachments/files/20201853/spf-eps-converted-to.pdf)
+
 
 
 
