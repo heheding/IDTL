@@ -1,4 +1,4 @@
-# Variational Information Inference (IDTL) for Multirate Industrial Processes
+# Variational Information Inference: An Interpretable Disentangled Transfer Learning Quality Prediction for Multirate Industrial Processes
 
 This repository contains the official implementation of **Variational Information Inference: An Interpretable Disentangled Transfer Learning Quality Prediction for Multirate Industrial Processes** (TCYB 2025).
 
