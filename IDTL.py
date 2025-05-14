@@ -219,6 +219,6 @@ MAE, RMSE, R2 = calculate_metrics(output, label)
 print('MAE: {} \t RMSE: {} \t '.format(MAE, RMSE))
 
 
-# current_time = datetime.datetime.now()
-# print(f"VDISDA聚酯,当前时间：{current_time}, Batch size: {batch_size}, 学习率: {lr}, epoch: {n_epoch}, gan: {lambda_gan}, lamada_z: {lamada_z}, lambda_z_concentrate:{lambda_z_concentrate}, lambda_u_concentrate:{lambda_u_concentrate},lambda_spf: {lambda_spf}")
+current_time = datetime.datetime.now()
+print(f"IDTL on debutanizer column,当前时间：{current_time}, Batch size: {batch_size}, 学习率: {lr}, epoch: {n_epoch}, gan: {lambda_gan}, lamada_z: {lamada_z}, lambda_z_concentrate:{lambda_z_concentrate}, lambda_u_concentrate:{lambda_u_concentrate},lambda_spf: {lambda_spf}")
 
