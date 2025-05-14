@@ -74,7 +74,11 @@ This work was supported by:
 
 ## References
 [1] M. Awad and R. Khanna, Support Vector Regression. Berkeley, CA: Apress, 2015, pp. 67–80.
+
 [2] H. Wang, H. He, and D. Katabi, “Continuously indexed domain adaptation,” in Proc. Int. Conf. Mach. Learn., 2020.
+
 [3] Q. Zhou, Q. Gu, J. Pang, X. Lu, and L. Ma, “Self-adversarial disentangling for specific domain adaptation,” IEEE Trans. Pattern Anal. Mach. Intell., vol. 45, no. 7, pp. 8954–8968, 2023.
+
 [4] Z. Xu, G.-Y. Hao, H. He, and H. Wang, “Domain-indexing variational bayes: interpretable domain index for domain adaptation,” in Proc. Int. Conf. Learn. Represent., 2023.
+
 [5] Z. Chai, C. Zhao, and B. Huang, “Variational progressive-transfer networkforsoftsensingofmultirateindustrialprocesses,” IEEETrans. Cybern.,vol.52,no.12,pp.12882–12892,2022.
