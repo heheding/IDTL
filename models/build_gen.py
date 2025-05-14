@@ -50,7 +50,7 @@ def Discriminator(discri):
     else:
         return gap.Domain_classifier()
 
-def VDI(gen):
+def IDTL(gen):
     if gen == 'UNet':
         return modules.UNet()
     if gen == 'UConcenNet':
