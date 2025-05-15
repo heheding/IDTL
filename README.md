@@ -79,7 +79,7 @@ This work was supported by:
 * Shanghai Sailing Program, China (Grant No. 22YF1401500)
 * Chenguang Program of Shanghai Education Development Foundation and Shanghai Municipal Education Commission (22CGA36)
 
-## References
+## 📕 References
 [1] M. Awad and R. Khanna, Support Vector Regression. Berkeley, CA: Apress, 2015, pp. 67–80.
 
 [2] H. Wang, H. He, and D. Katabi, “Continuously indexed domain adaptation,” in Proc. Int. Conf. Mach. Learn., 2020.
