@@ -11,19 +11,20 @@ Multirate industrial processes generate data at different sampling rates, which 
 ![Model Architecture](https://github.com/user-attachments/assets/45565b50-1f23-4ed9-8434-22bc9e50e3b3)
 
 <p align="center">
-  <figure style="display: inline-block; margin: 0 1%; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/cee6a10c-5d2f-4a5d-8846-65d7fbd63874" width="20%"/>
+  <figure style="display:inline-block; margin:0 1%; text-align:center;">
+    <img src="https://github.com/user-attachments/assets/45565b50-1f23-4ed9-8434-22bc9e50e3b3" width="30%" alt="Model Architecture"/>
+    <figcaption>Model Architecture</figcaption>
+  </figure>
+  <figure style="display:inline-block; margin:0 1%; text-align:center;">
+    <img src="https://github.com/user-attachments/assets/cee6a10c-5d2f-4a5d-8846-65d7fbd63874" width="30%" alt="Prediction Scatter"/>
     <figcaption>Prediction Scatter</figcaption>
   </figure>
-  <figure style="display: inline-block; margin: 0 1%; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/97dcc11b-a01d-49ce-8e2d-65e9da279380" width="20%"/>
+  <figure style="display:inline-block; margin:0 1%; text-align:center;">
+    <img src="https://github.com/user-attachments/assets/97dcc11b-a01d-49ce-8e2d-65e9da279380" width="30%" alt="Domain-invariant Representations"/>
     <figcaption>Domain-invariant Representations</figcaption>
   </figure>
-  <figure style="display: inline-block; margin: 0 1%; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/7ccf4909-5065-41e6-af89-ac24d9c60f82" width="20%"/>
-    <figcaption>Domain-specific Representations</figcaption>
-  </figure>
 </p>
+
 
 
 
