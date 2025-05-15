@@ -16,6 +16,7 @@ Multirate industrial processes generate data at different sampling rates, which 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cee6a10c-5d2f-4a5d-8846-65d7fbd63874" width="30%" alt="Prediction Scatter"/>
+  <em>Model Architecture</em>
   <img src="https://github.com/user-attachments/assets/97dcc11b-a01d-49ce-8e2d-65e9da279380" width="30%" alt="Domain-invariant Representations"/>
   <img src="https://github.com/user-attachments/assets/7ccf4909-5065-41e6-af89-ac24d9c60f82" width="30%" alt="Domain-specific Representations"/>
 </p>
