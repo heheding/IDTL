@@ -8,13 +8,17 @@ Multirate industrial processes generate data at different sampling rates, which 
 
 ### 📷 Illustrations
 
-![Model Architecture](https://github.com/user-attachments/files/20201576/framework.pdf)
+![Model Architecture](https://github.com/user-attachments/files/20201576/framework.pdf)![framework_page-0001](https://github.com/user-attachments/assets/45565b50-1f23-4ed9-8434-22bc9e50e3b3)
 
-![Prediction Scatter](https://github.com/user-attachments/files/20201773/scatter-eps-converted-to.pdf)
 
-![Domain-invariant Representations](https://github.com/user-attachments/files/20201781/inv-eps-converted-to.pdf)
+![Prediction Scatter](https://github.com/user-attachments/files/20201773/scatter-eps-converted-to.pdf)![Page_1_docsmall com](https://github.com/user-attachments/assets/cee6a10c-5d2f-4a5d-8846-65d7fbd63874)
 
-![Domain-specific Representations](https://github.com/user-attachments/files/20201853/spf-eps-converted-to.pdf)
+
+![Domain-invariant Representations](https://github.com/user-attachments/files/20201781/inv-eps-converted-to.pdf)![Page_1_docsmall com](https://github.com/user-attachments/assets/97dcc11b-a01d-49ce-8e2d-65e9da279380)
+
+
+![Domain-specific Representations](https://github.com/user-attachments/files/20201853/spf-eps-converted-to.pdf)![spf-eps-converted-to](https://github.com/user-attachments/assets/7ccf4909-5065-41e6-af89-ac24d9c60f82)
+
 
 ## 📊 Performance Comparison
 
