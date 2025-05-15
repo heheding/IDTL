@@ -4,7 +4,7 @@ This repository contains the official implementation of **Variational Informatio
 
 ## 📖 Project Overview
 
-Multirate industrial processes produce data streams sampled at different rates, posing significant challenges for accurate soft sensing and quality prediction. This project introduces a novel **set-based perspective** and proposes an **Interpretable Disentangled Transfer Learning (IDTL)** framework to handle multirate data without losing critical information.
+Multirate industrial processes produce data streams sampled at different rates, posing significant challenges for accurate soft sensing and quality prediction. This project proposes an **Interpretable Disentangled Transfer Learning (IDTL)** framework to handle multirate data without losing critical information.
 
 ### 📷 Illustrations
 
@@ -88,4 +88,4 @@ This work was supported by:
 
 [4] Z. Xu, G.-Y. Hao, H. He, and H. Wang, “Domain-indexing variational bayes: interpretable domain index for domain adaptation,” in Proc. Int. Conf. Learn. Represent., 2023.
 
-[5] Z. Chai, C. Zhao, and B. Huang, “Variational progressive-transfer networkforsoftsensingofmultirateindustrialprocesses,” IEEETrans. Cybern.,vol.52,no.12,pp.12882–12892,2022.
+[5] Z. Chai, C. Zhao, and B. Huang, “Variational progressive-transfer network for soft sensing of multirate industrial processes,” IEEETrans. Cybern.,vol.52,no.12,pp.12882–12892,2022.
