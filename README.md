@@ -26,6 +26,7 @@ Multirate industrial processes generate data at different sampling rates, which 
 </p>
 
 
+
 ## 📊 Performance Comparison
 
 As shown in the table, IDTL outperforms the other methods in both MAE and RMSE:
