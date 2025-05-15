@@ -6,6 +6,16 @@ This repository contains the official implementation of **Variational Informatio
 
 Multirate industrial processes generate data at different sampling rates, which poses challenges for accurate soft sensing and quality prediction. We introduce a novel set-based perspective and an **Interpretable Disentangled Transfer Learning (IDTL)** methodology to effectively handle multirate data without information loss.
 
+### 📷 Illustrations
+
+![Model Architecture](https://github.com/user-attachments/assets/45565b50-1f23-4ed9-8434-22bc9e50e3b3)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cee6a10c-5d2f-4a5d-8846-65d7fbd63874" width="30%" alt="Prediction Scatter"/>
+  <img src="https://github.com/user-attachments/assets/97dcc11b-a01d-49ce-8e2d-65e9da279380" width="30%" alt="Domain-invariant Representations"/>
+  <img src="https://github.com/user-attachments/assets/7ccf4909-5065-41e6-af89-ac24d9c60f82" width="30%" alt="Domain-specific Representations"/>
+</p>
+
 
 ### 🚀 Highlights
 
@@ -45,24 +55,6 @@ As shown in the table, IDTL outperforms the other methods in both MAE and RMSE:
 |---------------------|---------------:|---------------:|--------------:|-------------:|---------------:|-----------:|
 | **MAE**             | 0.0963         | 0.0851         | 0.0936        | 0.0823       | 0.0819         | **0.0638** |
 | **RMSE**            | 0.1412         | 0.1048         | 0.1149        | 0.0995       | 0.1207         | **0.0805** |
-
-
-
-### 📷 Illustrations
-
-![Model Architecture](https://github.com/user-attachments/assets/45565b50-1f23-4ed9-8434-22bc9e50e3b3)
-
-<p align="center">
-  <div style="display: inline-block; margin: 0 1%; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/cee6a10c-5d2f-4a5d-8846-65d7fbd63874" width="30%"/>
-  </div>
-  <div style="display: inline-block; margin: 0 1%; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/97dcc11b-a01d-49ce-8e2d-65e9da279380" width="30%"/>
-  </div>
-  <div style="display: inline-block; margin: 0 1%; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/7ccf4909-5065-41e6-af89-ac24d9c60f82" width="30%"/>
-  </div>
-</p>
 
 
 
