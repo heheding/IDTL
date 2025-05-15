@@ -4,21 +4,27 @@ This repository contains the official implementation of **Variational Informatio
 
 ## 📖 Project Overview
 
-Multirate industrial processes generate data at different sampling rates, which poses challenges for accurate soft sensing and quality prediction. We introduce a novel set-based perspective and an **Interpretable Disentangled Transfer Learning (IDTL)** methodology to effectively handle multirate data without information loss.
+Multirate industrial processes produce data streams sampled at different rates, posing significant challenges for accurate soft sensing and quality prediction. This project introduces a novel **set-based perspective** and proposes an **Interpretable Disentangled Transfer Learning (IDTL)** framework to handle multirate data without losing critical information.
 
 ### 📷 Illustrations
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/45565b50-1f23-4ed9-8434-22bc9e50e3b3" alt="Model Architecture"/>
+  <img src="..." alt="Model Architecture"/>
   <br>
-  <em>Model Architecture</em>
+  <em>Figure 1: Overall Architecture of the IDTL Framework</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cee6a10c-5d2f-4a5d-8846-65d7fbd63874" width="30%" alt="Prediction Scatter"/>
-  <img src="https://github.com/user-attachments/assets/97dcc11b-a01d-49ce-8e2d-65e9da279380" width="30%" alt="Domain-invariant Representations"/>
-  <img src="https://github.com/user-attachments/assets/7ccf4909-5065-41e6-af89-ac24d9c60f82" width="30%" alt="Domain-specific Representations"/>
+  <img src="..." width="30%" alt="Prediction Scatter"/>
+  <em>Figure 2: Prediction Scatter Plot</em>
+  
+  <img src="..." width="30%" alt="Domain-invariant Representations"/>
+  <em>Figure 3: Domain-Invariant Representation Visualization</em>
+  
+  <img src="..." width="30%" alt="Domain-specific Representations"/>
+  <em>Figure 4: Domain-Specific Representation Visualization</em>
 </p>
+
 
 
 ### 🚀 Highlights
