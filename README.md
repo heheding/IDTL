@@ -9,15 +9,16 @@ Multirate industrial processes produce data streams sampled at different rates, 
 ### 📷 Illustrations
 
 <p align="center">
-  <img src="..." alt="Model Architecture"/>
+  <img src="https://github.com/user-attachments/assets/45565b50-1f23-4ed9-8434-22bc9e50e3b3" alt="Model Architecture"/>
   <br>
-  <em>Figure 1: Overall Architecture of the IDTL Framework</em>
+  <em>Overall Architecture of the IDTL Framework</em>
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cee6a10c-5d2f-4a5d-8846-65d7fbd63874" width="30%" alt="Prediction Scatter"/>
   <img src="https://github.com/user-attachments/assets/97dcc11b-a01d-49ce-8e2d-65e9da279380" width="30%" alt="Domain-invariant Representations"/>
   <img src="https://github.com/user-attachments/assets/7ccf4909-5065-41e6-af89-ac24d9c60f82" width="30%" alt="Domain-specific Representations"/>
+  <em>Prediction Scatter, Domain-invariant Representations, and Domain-specific Representations</em>
 </p>
 
 
