@@ -16,7 +16,7 @@ Multirate industrial processes generate data at different sampling rates, which 
 
 <div align="center" style="width: 100%; overflow: hidden;">
   <div style="display: flex; justify-content: center; white-space: nowrap;">
-    <div style="display: inline-block; text-align: center; margin: 0 10px; width: 30%;">
+    <div style="display: inline-block; text-align: center; margin: 0 10px; width: 10%;">
       <img src="https://github.com/user-attachments/assets/cee6a10c-5d2f-4a5d-8846-65d7fbd63874" style="width: 30%;" alt="Prediction Scatter"/>
       <p>Prediction Scatter</p>
     </div>
