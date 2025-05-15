@@ -17,15 +17,15 @@ Multirate industrial processes generate data at different sampling rates, which 
 <div align="center">
   <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
     <div style="text-align: center; margin: 10px;">
-      <img src="https://github.com/user-attachments/assets/cee6a10c-5d2f-4a5d-8846-65d7fbd63874" width="90%" alt="Prediction Scatter"/>
+      <img src="https://github.com/user-attachments/assets/cee6a10c-5d2f-4a5d-8846-65d7fbd63874" width="30%" alt="Prediction Scatter"/>
       <p>Prediction Scatter</p>
     </div>
     <div style="text-align: center; margin: 10px;">
-      <img src="https://github.com/user-attachments/assets/97dcc11b-a01d-49ce-8e2d-65e9da279380" width="90%" alt="Domain-invariant Representations"/>
+      <img src="https://github.com/user-attachments/assets/97dcc11b-a01d-49ce-8e2d-65e9da279380" width="30%" alt="Domain-invariant Representations"/>
       <p>Domain-invariant Representations</p>
     </div>
     <div style="text-align: center; margin: 10px;">
-      <img src="https://github.com/user-attachments/assets/7ccf4909-5065-41e6-af89-ac24d9c60f82" width="90%" alt="Domain-specific Representations"/>
+      <img src="https://github.com/user-attachments/assets/7ccf4909-5065-41e6-af89-ac24d9c60f82" width="30%" alt="Domain-specific Representations"/>
       <p>Domain-specific Representations</p>
     </div>
   </div>
