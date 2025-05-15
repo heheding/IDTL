@@ -9,7 +9,7 @@ Multirate industrial processes generate data at different sampling rates, which 
 ### 📷 Illustrations
 
 ![Model Architecture](https://github.com/user-attachments/assets/45565b50-1f23-4ed9-8434-22bc9e50e3b3)
-
+<img src="[docs/images/overview.png](https://github.com/user-attachments/assets/45565b50-1f23-4ed9-8434-22bc9e50e3b3)" alt="Model Architecture" width="300"/>
 
 ![Prediction Scatter](https://github.com/user-attachments/assets/cee6a10c-5d2f-4a5d-8846-65d7fbd63874)
 
