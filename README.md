@@ -13,7 +13,7 @@ Multirate industrial processes generate data at different sampling rates, which 
 <p align="center">
   <div style="display: flex; justify-content: center; align-items: flex-start">
     <div style="text-align: center;">
-      <img src="https://github.com/user-attachments/assets/cee6a10c-5d2f-4a5d-8846-65d7fbd63874" width="30%"/>
+      <img src="https://github.com/user-attachments/assets/cee6a10c-5d2f-4a5d-8846-65d7fbd63874" width="10%"/>
       <p>Prediction Scatter</p>
     </div>
     <div style="text-align: center;">
