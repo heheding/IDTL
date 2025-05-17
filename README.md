@@ -68,7 +68,7 @@ As shown in the table, IDTL outperforms the other methods in both MAE and RMSE:
 
 If you use this code in your research, please cite:
 
-> H. Ding, K. Hao, L. Chen, and X. Cai, "Industrial Metaverse for Smart Manufacturing: Model, Architecture, and Applications," *IEEE Transactions on Cybernetics*, 2025.
+> H. Ding, K. Hao, L. Chen, and X. Cai, "Variational Information Inference: An Interpretable Disentangled Transfer Learning Quality Prediction for Multirate Industrial Processes," *IEEE Transactions on Cybernetics*, 2025.
 
 ## 🙏 Acknowledgements
 
