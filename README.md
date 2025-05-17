@@ -11,7 +11,7 @@ Multirate industrial processes produce data streams sampled at different rates, 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/45565b50-1f23-4ed9-8434-22bc9e50e3b3" alt="Model Architecture"/>
   <br>
-  <em>Overall Architecture of the IDTL Framework</em>
+  <em>Overall Architecture of the IDTL</em>
 </p>
 
 <p align="center">
