@@ -38,7 +38,7 @@ conda create -n IDTL python=3.8.17
 conda activate IDTL
 
 # Install the package and dependencies
-pip install -all .
+pip install -requirement.txt
 ```
 
 ## ▶️ Usage Example
