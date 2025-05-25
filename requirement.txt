@@ -1,0 +1,10 @@
+matplotlib;
+numpy;
+pandas;
+pillow;
+pyqt;
+pytorch;
+scipy;
+wandb;
+yaml;
+torch
